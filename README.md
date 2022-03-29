@@ -1,2 +1,12 @@
-# zsh-custom-config-
-Custom zshrc file and plugin folder 
+# CUSTOM CONFIGURATION FILE FOR ZSH
+
+- **AUTOCOMPLETION**
+- **AUTOCOMPLETION BASED ON HISTORY**
+- **AUTOCOMPLETION USING ARROW KEYS**
+- **CUSTOM PROMPT COLOR STYLE**
+- **GIT PROMPT**
+- **ZSH-Z PLUGIN**
+- **USEFUL ALIASES**:
+    - alias ls='ls -lhtPG'
+    - alias mkdir='mkdir -vp'
+    - alias cp='cp -vi' 
